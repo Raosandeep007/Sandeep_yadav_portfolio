@@ -1,4 +1,8 @@
 {
+  "homepage": "http:/Raosandeep007.github.io/Sandeep_yadav_portfolio",
+  "name": "portfolio",
+  "version": "0.1.0",
+  "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",

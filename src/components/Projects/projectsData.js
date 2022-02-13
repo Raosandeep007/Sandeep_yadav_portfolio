@@ -13,7 +13,7 @@ export const projectData = [
     title:
       "A web application to rent self-drive cars on a monthly and daily basis.",
     codeLink: "https://github.com/Raosandeep007/Zoom_Car_Clone_ejs.git",
-    liveLink: "https://github.com/Raosandeep007/Zoom_Car_Clone_ejs.git",
+    liveLink: "http://3.82.160.93:2345/home",
     techStack: ["Ejs", "Javascript", "Express", "Mongodb", "Redis"],
   },
   {

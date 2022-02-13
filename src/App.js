@@ -8,6 +8,7 @@ import { ThemeProvider } from "styled-components";
 import { theme } from "./components/styles/Theme";
 import { BrowserRouter as Router } from "react-router-dom";
 import Technologies from "./components/Technologies/Technologies";
+import { Designer } from "./components/designer/designer";
 function App() {
   return (
     <Router>
@@ -20,6 +21,7 @@ function App() {
           <Technologies />
           <Projects />
           <Footer />
+          <Designer />
         </>
       </ThemeProvider>
     </Router>

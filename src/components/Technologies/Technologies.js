@@ -16,13 +16,13 @@ const Technologies = () => {
         {iconsData.map((iconData) => {
           return (
             <a href={iconData.href} target={"_blank"}>
-            <TechnologyIcon
-              key={iconData.id}
-              src={iconData.icon}
-              alt={iconData.name}
-              title={iconData.name}
-              {...iconData}
-            />
+              <TechnologyIcon
+                key={iconData.id}
+                src={iconData.icon}
+                alt={iconData.name}
+                title={iconData.name}
+                {...iconData}
+              />
             </a>
           );
         })}

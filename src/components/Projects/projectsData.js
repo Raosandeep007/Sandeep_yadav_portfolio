@@ -22,7 +22,7 @@ export const projectData = [
     transitionImage: healthmug2Mobile,
     title:
       "A web application to purchase nutrition, any kind of medicines and doctor consultion.",
-    codeLink: "https://github.com/Akshay-Kumar2000/HealthMug-Clone.git",
+    codeLink: "https://github.com/Raosandeep007/healthmug.git",
     liveLink: "https://healthmug.vercel.app/",
     techStack: ["HTML", "CSS", "Javascript"],
   },

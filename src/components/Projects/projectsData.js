@@ -23,7 +23,7 @@ export const projectData = [
     title:
       "A web application to purchase nutrition, any kind of medicines and doctor consultion.",
     codeLink: "https://github.com/Akshay-Kumar2000/HealthMug-Clone.git",
-    liveLink: "https://github.com/Akshay-Kumar2000/HealthMug-Clone.git",
+    liveLink: "https://healthmug.vercel.app/",
     techStack: ["HTML", "CSS", "Javascript"],
   },
 ];

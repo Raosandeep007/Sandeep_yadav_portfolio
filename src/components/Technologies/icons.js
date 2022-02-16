@@ -4,7 +4,7 @@ import javascript from "../../assets/technologies/javascript.svg";
 import reactjs from "../../assets/technologies/react.svg";
 import styledComponents from "../../assets/technologies/styled-components.svg";
 import Postman from "../../assets/technologies/postman.png";
-import AWS from "../../assets/technologies/aws.png";
+import AWS from "../../assets/technologies/aws.svg";
 import npm from "../../assets/technologies/npm.svg";
 import git from "../../assets/technologies/git.svg";
 import github from "../../assets/technologies/github.svg";

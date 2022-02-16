@@ -8,11 +8,12 @@ export const StyledAbout = styled.section`
 export const AboutContent = styled.div`
   display: flex;
   gap: 5%;
-  margin-left: 50px;
+  margin-left: 200px;
 
   @media all and (max-width: ${({ theme }) => theme.breakpoints.lg}) {
     flex-direction: column;
     margin-top: 0;
+    margin-left: 0px;
   }
 `;
 
@@ -56,8 +57,8 @@ export const AboutImageContainer = styled.div`
 `;
 
 export const AboutImage = styled.img`
-  width: 30%;
-  height: 30%;
+  width: 25%;
+  height: 25%;
   object-fit: cover;
   position: relative;
   border-radius: 1px;

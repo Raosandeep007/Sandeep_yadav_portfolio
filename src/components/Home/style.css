@@ -75,3 +75,10 @@ p span:nth-of-type(10) {
     opacity: 1;
   }
 }
+
+#contactdiv {
+  margin-top: 1%;
+  display: flex;
+  column-gap: 10px;
+  /* justify-content: space-between; */
+}

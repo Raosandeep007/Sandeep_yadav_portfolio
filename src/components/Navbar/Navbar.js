@@ -11,6 +11,7 @@ import {
 } from "../styles/Navbar.styled";
 import { animateScroll as scroll } from "react-scroll";
 import MobileMenu from "./MobileMenu";
+import { IoMdMail } from "react-icons/io";
 
 const Navbar = () => {
   const [stickyNav, setStickyNav] = useState(false);
@@ -116,6 +117,7 @@ const Navbar = () => {
         rel="noreferrer"
       >
         <span>
+          <IoMdMail />
           <span>get in touch</span>
         </span>
       </StyledCTA>

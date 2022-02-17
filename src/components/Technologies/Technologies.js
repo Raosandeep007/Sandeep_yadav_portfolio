@@ -15,7 +15,7 @@ const Technologies = () => {
       <TechnologiesIcons>
         {iconsData.map((iconData) => {
           return (
-            <a href={iconData.href} target={"_blank"}>
+            <a href={iconData.href} key={iconData.id} target={"_blank"}>
               <TechnologyIcon
                 key={iconData.id}
                 src={iconData.icon}

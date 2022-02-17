@@ -1,4 +1,5 @@
 import React from "react";
+import { IoMdMail } from "react-icons/io";
 import {
   CloseIcon,
   Icon,
@@ -38,6 +39,7 @@ const MobileMenu = ({ isOpen, toggle }) => {
           rel="noreferrer"
         >
           <span>
+            <IoMdMail />
             <span>get in touch</span>
           </span>
         </MobileButton>

@@ -48,7 +48,7 @@ const ProjectCardComponent = ({
             <h4 style={{ marginTop: "10px" }}>Tech Stack</h4>
             <span style={{ display: "flex" }}>
               {techStack.map((el) => (
-                <p key={el.id}>{el}||</p>
+                <p key={el.id}>{el} || </p>
               ))}
             </span>
           </ProjectDetails>

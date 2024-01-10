@@ -34,7 +34,7 @@ const MobileMenu = ({ isOpen, toggle }) => {
           Playground
         </MobileMenuLink>
         <MobileButton
-          href="mailto:jerichobantiquete@gmail.com "
+          href="mailto:yadavsandeep775@gmail.com "
           target="_blank"
           rel="noreferrer"
         >

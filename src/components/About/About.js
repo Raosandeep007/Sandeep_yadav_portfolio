@@ -41,7 +41,7 @@ const About = () => {
           <Resume>
             <ResumeLink
               download="Sandeep_yadav"
-              href="https://drive.google.com/file/d/1CLoBXP9jJJE6IPIwVLvHQeRIDY44VQr6/view"
+              href="https://drive.google.com/file/d/1YvGUdP-7U00cieO_pdFo5x_WfMzoExaO/view?usp=sharing"
               target={"_blank"}
               icon={downloadIcon}
             >
